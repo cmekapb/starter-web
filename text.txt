@@ -1,3 +1,5 @@
 some text
 second line
 cool!
+
+new line
