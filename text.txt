@@ -3,3 +3,7 @@ second line
 cool!
 
 new line
+
+one more new line
+
+and more
